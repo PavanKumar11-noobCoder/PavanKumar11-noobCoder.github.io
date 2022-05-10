@@ -1,0 +1,25 @@
+[
+    {
+        "name" : "surya",
+        "rating" : "9.7",
+        "strength" : "lie"
+    },
+
+    {
+        "name": "mukund",
+        "rating": "9.7",
+        "strength": "humour"
+    },
+
+    {
+        "name": "bharath",
+        "rating": "9.7",
+        "strength": "doli"
+    },
+
+    {
+        "name": "vamsi",
+        "rating": "9.7",
+        "strength": "playboy"
+    }
+]
